@@ -1,2 +1,2 @@
 # Lectures
-This is a place holder for my data science lectures. 
+This is a placeholder for data science lectures.
